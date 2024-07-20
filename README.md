@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=BlueBigThink&theme=algolia&SECRET&title=Stars,Followers,Commits,Repositories,Experience,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BlueBigThink&theme=algolia&SECRET&title=Followers,Commits,Repositories,Experience,MultipleLang&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
 ### Bio:    
 Have a Big Big Big Think!
