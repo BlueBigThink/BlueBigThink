@@ -58,7 +58,7 @@ Have a Big Big Big Think!
 </p>
  
 
-
+<!-- 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=BlueBigThink&style=for-the-badge&color=orange" alt=""/>
 </div>
@@ -67,6 +67,6 @@ Have a Big Big Big Think!
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-
+ -->
 
 
