@@ -3,6 +3,12 @@
 ### Bio:    
 Have a Big Big Big Think!
 
+### Contact ME:
+### Social media: 📡
+
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bluebigthink)
+[![Discord Badge](https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/bluebigthink)
+
 ## Languages and Tools 
 <div>
 
