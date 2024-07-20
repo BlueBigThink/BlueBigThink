@@ -59,7 +59,7 @@ Have a Big Big Big Think!
 
   
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=BlueBigThink&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=bluebigthink&mode=weekly&theme=whatsapp-dark2">
 </p>
 
 
