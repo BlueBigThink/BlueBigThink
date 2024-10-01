@@ -7,7 +7,7 @@ Have a Big Big Big Think!
 ### Social media: 📡
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bluebigthink)
-[![Discord Badge](https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.com/bluebigthink](https://discord.com/channels/1264273935013384297/1264273935013384300))
+[![Discord Badge](https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XHyCxZw9)
 
 ## Languages and Tools 
 <div>
