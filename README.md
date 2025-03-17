@@ -1,6 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=BlueBigThink&ranking=B,C&theme=algolia&SECRET&title=Followers,Commits,Repositories,Experience,MultipleLang,-Stars,-PullRequest,-Reviews&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
-### Bio:    
+### [Bio](https://drive.google.com/drive/folders/1Wt7NMKiwO3dFuj8ppYCXvuAefemTnSPN?usp=sharing):    
 Have a Big Big Big Think!
 
 ### Contact ME:
